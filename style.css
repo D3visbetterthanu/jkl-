@@ -1,0 +1,44 @@
+body{
+    background-image:url("aerosmith.jpg");
+    background-size:cover
+}
+.header{
+    color:yellow;
+    width:100%;
+    margin-top:0;
+}
+kbd{
+    font-size:large;
+}
+.volume{
+    float:left;
+}
+.volume_img{
+    width:400px;
+    border-radius: 20px;
+}
+.btn-volume{
+    font-size:25px;
+    margin:15px;
+}
+.speed{
+    float:right;
+}
+.speed_img{
+    width:400px;
+    border-radius: 20px;
+}
+.btn-speed{
+    font-size:25px;
+    margin:15px;
+}
+.btn-success{
+    margin-top:15px;
+    font-size:140%;
+}
+canvas{
+    background:rgb(255, 197, 197);
+    border:3px solid red;
+    border-radius: 30px;
+    margin-top:100px;
+}
